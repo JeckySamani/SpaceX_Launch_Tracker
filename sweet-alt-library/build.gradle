@@ -1,0 +1,22 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+        minSdkVersion 9
+    }
+
+    buildTypes {
+        buildTypes {
+        }
+    }
+    lint {
+        abortOnError false
+    }
+    namespace 'cn.pedant.SweetAlert'
+}
+
+dependencies {
+    implementation 'com.pnikosis:materialish-progress:1.7'
+}

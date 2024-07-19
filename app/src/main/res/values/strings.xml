@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SpaceX Launch Tracker</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+
+    <string name="press_again_to_exit">Press again to exit</string>
+
+    <string name="loading">Loading…</string>
+
+    <string name="search_here">Search here...</string>
+    <string name="rocket_name">Rocket Name:</string>
+    <string name="rocket_type">Rocket Type:</string>
+    <string name="payload_id">Payload Id:</string>
+    <string name="payload_type">Payload Type:</string>
+    <string name="reused">Reused:</string>
+    <string name="manufacturer">Manufacturer:</string>
+    <string name="nationality">Nationality:</string>
+    <string name="launch_site">Launch Site:</string>
+    <string name="article_link">Article Link:</string>
+    <string name="wikipedia">Wikipedia:</string>
+    <string name="watch_video">Watch Video</string>
+
+</resources>
